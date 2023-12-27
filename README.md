@@ -1,5 +1,6 @@
 # SQL_Database
-It's created by me (only me, second pearson dont help me) relational database sa a project to university. I made some databsaes in my IT technical school so that was fast to made for me.
+
+It's created by me (only me, second pearson doesn't help me) relational database as a project to university. I made some databases in my IT technical school so that was fast to made.
 
 ![image](https://github.com/Shooterqq/SQL_Database/assets/102792345/9a302c72-e530-4fed-af5b-838fa5e5f920)
 
